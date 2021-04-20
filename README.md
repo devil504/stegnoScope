@@ -1,6 +1,6 @@
 # stegnoScope
 <h3> A tool to hide data inside an image. And decrypt data from a image.</h3>
-<img src="" height="200px" width="350px" />
+<img src="" height="200px" width="330px" />
 
 <h3>Installation </h3>
 
